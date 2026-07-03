@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Hard work alone doesn't guarantee success; a lot of factors goes into it. Luck, timing, background, how you were raised, culture, all of it has a role in how we turn out. Now, I am not saying that you should depend entirely on luck or these factors, because you can create your own luck, I just believe that there are patterns and factors that makes us successful.
 
 ---
 
@@ -55,37 +55,14 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency works!
 
 ### Evidence from my life
 
-Add your answer here...
+To be honest, I have always been someone that struggled with consistency, but I decided to be consistent at something, like going to the gym, and I have noticed huge improvements! I will be applying that across every part of my life
 
 ---
 
-## Truth #2
-
-### Truth
-
-Add your answer here...
-
-### Evidence from my life
-
-Add your answer here...
-
----
-
-## Truth #3
-
-### Truth
-
-Add your answer here...
-
-### Evidence from my life
-
-Add your answer here...
-
----
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -135,13 +112,28 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Five years ago, Joshua Chibuisi was recognized as a graduate who consistently built practical software projects while developing expertise in cloud computing and backend engineering. Today, he has established himself as a cloud and DevOps engineer known for building reliable infrastructure, automating software delivery, and helping engineering teams deploy applications with confidence.
+
+His career gained momentum after he built and shipped production-ready applications that demonstrated both technical depth and attention to quality. His GitHub portfolio showcased cloud-native Node.js applications, Dockerized services, Kubernetes deployments, Infrastructure as Code with Terraform, CI/CD pipelines using GitHub Actions, and secure AWS architectures. These projects became more than portfolio pieces—they reflected his ability to design systems that were scalable, resilient, and maintainable.
+
+Joshua earned industry-recognized certifications in AWS, Kubernetes, Linux, and DevOps, strengthening the foundation of his engineering career. He joined a technology-driven organization as a DevOps Engineer, where he automated deployment pipelines, improved infrastructure reliability, and streamlined development workflows. His work reduced deployment times, improved system availability, and enabled engineering teams to release software faster and with greater confidence.
+
+As his career progressed, Joshua began working on projects that intersected cloud technology and industrial operations. Drawing on his chemical engineering education, he contributed to initiatives involving operational data, process monitoring, and workflow automation for manufacturing and energy systems. These experiences gradually expanded his expertise beyond software infrastructure, allowing him to understand both the technology powering modern applications and the operational environments they supported.
+
+Outside of his professional role, Joshua continued to build and share. His GitHub profile featured open-source contributions, deployment templates, backend services, and automation tools that other developers adopted in their own projects. He also published technical articles documenting lessons from real-world deployments, cloud architecture, DevOps practices, and software engineering. His writing became a trusted resource for engineers looking to move beyond tutorials and build production-ready systems.
+
+Joshua also invested in the engineering community. He mentored aspiring cloud engineers, organized technical workshops, reviewed open-source projects, and encouraged students and early-career professionals to build public portfolios that demonstrated practical engineering skills. His willingness to share knowledge earned him respect among peers and the broader technology community.
+
+As intelligent software became increasingly common, Joshua incorporated AI-powered tools into development and operations where they delivered measurable value. He used them to improve automation, monitoring, documentation, and developer productivity while keeping reliability and maintainability at the center of every system he built.
+
+Today, Joshua is recognized as an engineer who successfully combined cloud infrastructure, DevOps, backend development, and a growing understanding of industrial operations to build dependable software systems. His portfolio, technical writing, leadership, and cross-disciplinary expertise have positioned him as a professional capable of connecting modern cloud technologies with real-world engineering challenges.
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_join-the-dmi-devops-micro-internship-share-7478769520904581120-MeCs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
@@ -173,7 +165,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+NO
 
 ---
 
@@ -199,16 +191,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The tipping point by Malcolm Gladwell
+2. Blink by Malcolm Gladwell
+3. The art of thinking clearly by Rolf Dobelli
+4. The power of Habit by Charles Duhigg
+5. How we decide by Daniel Kahneman
+6. The Alchemist by Paulo Coelho
+7. The lean startup by Eric Ries
+8. Thinking, fast and slow by Daniel Kahneman
+9. The Road by Cormag McCarthy
+10. Ego is the enemy by Ryan Holiday
 
 ---
 
@@ -237,16 +229,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Finance
+* Health/gym
+* Little habits
+* Time
+* Projects worked on and learning sessions per month
+
 
 ---
 
@@ -272,7 +260,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +278,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Every day; Read at least ten pages of a book
+Mon - Fri; Workouts
+Mon - Thu; 60 min learning session
+Sat; DMI session
+Sun; Weekly review
 
 ---
 
@@ -298,11 +290,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday to Wed (Saturday main sessions, other days for learning and doing assignments)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+At least one session or more
 
 ---
 
@@ -316,7 +308,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone in another room while I am engaging with DMI
+No social media
+A calm, arranged and quiet setup
 
 ---
 
@@ -324,28 +318,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+That I am ready to put in my best.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+That it is difficult sitting for long period of time at once
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Splitting up sessions into smaller(more enjoyable) sessions
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_join-the-dmi-devops-micro-internship-share-7478769520904581120-MeCs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: (https://www.linkedin.com/in/joshua-chibuisi-5b9222200/)  
+- Blog / Medium : (https://medium.com/@cjemmyyy_33657) 
 
 ---
 
