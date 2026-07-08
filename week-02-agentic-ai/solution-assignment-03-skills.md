@@ -97,6 +97,7 @@ Paste your forked repository URL here:
 Paste your LinkedIn post URL here:
 
 `https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_dmibypravinmishra-agenticai-claudecode-share-7480606186736816128-bEO2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
+
 ---
 
 # Completion Checklist
