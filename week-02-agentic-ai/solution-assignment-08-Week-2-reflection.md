@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![](screenshots/ASS8-SC1.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@cjemmyyy_33657/reflection-week-2-dmi-e76c1e99a559`
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![](screenshots/ASS8-SC2.png)
 
 ---
 
@@ -108,7 +108,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_dmibypravinmishra-agenticai-claudecode-share-7481469310964592640-miqH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
@@ -124,15 +124,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [x] Blog written with required structure
+* [x] Blog includes at least 2–3 Week 2 topics
+* [x] Blog is publicly accessible
+* [x] LinkedIn post created
+* [x] Required P.S. line included
+* [x] LinkedIn post content copied in submission field
+* [x] Blog link added
+* [x] LinkedIn post link added
+* [x] Screenshots added to GitHub repo
 
 ---
 
