@@ -20,19 +20,23 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is a personal secure and isolated container for using Amazon Web Services. It is needed to create and manage cloud resources, like launching an EC2 instance, creating an S3 buckets and other wide range of services.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier is a program that lets you use certain AWS services at no cost, up to specific monthly usage limits. It's designed to help new users learn AWS, build small applications, and experiment without immediately incurring charges.
+
+However, "Free Tier" does not mean everything is free. If you exceed the free limits or use services that aren't covered, you'll be billed. Also, it lasts for 12 months
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon EC2;	750 hours of eligible instance usage
+Amazon S3;	5 GB of Standard storage
+Amazon RDS;	750 hours of eligible database instance usage
 
 ---
 
@@ -56,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![](screenshots/WK3-ASS1-SC1.png)
 
 ---
 
@@ -70,11 +74,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [x] Task 1 answers written in own words
+- [x] AWS Free Tier account created successfully
+- [x] Signed in to AWS Management Console
+- [x] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [x] All required screenshots added to repository
 
 ---
 
