@@ -133,7 +133,7 @@ Today, Joshua is recognized as an engineer who successfully combined cloud infra
 
 Paste your link here:
 
-`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_join-the-dmi-devops-micro-internship-share-7478769520904581120-MeCs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
+`__________________________`
 
 ---
 
@@ -332,7 +332,7 @@ Splitting up sessions into smaller(more enjoyable) sessions
 
 Paste your LinkedIn post link here:
 
-`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_join-the-dmi-devops-micro-internship-share-7478769520904581120-MeCs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
+`__________________________`
 
 ---
 
