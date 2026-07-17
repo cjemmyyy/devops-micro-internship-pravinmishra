@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+![](screenshots/ASS5-TSK1-SC1.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+![](screenshots/ASS5-TSK1-SC2.png)
 
 ---
 
@@ -36,19 +36,19 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+It is the default shell for most Linux distributions and macOS, allowing users to run programs, manage files, and automate repetitive tasks by typing commands into a text terminal
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+"shell" is a broad, generic term for any program that provides a text-based interface to interact with your operating system, whereas "Bash" is a specific, highly popular implementation of a shell.
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Confirming your Bash version before writing scripts prevents syntax errors, ensures feature compatibility, and avoids unexpected script failures across different environments.
 
 ---
 
