@@ -379,7 +379,7 @@ It should be terminated because it can rack up high costs very quickly.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_dmibypravinmishra-devops-linux-activity-7483937924074557442-LZxG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 

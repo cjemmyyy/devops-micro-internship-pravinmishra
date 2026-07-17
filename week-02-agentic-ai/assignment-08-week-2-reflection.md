@@ -108,11 +108,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
-<<<<<<< HEAD
-`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_dmibypravinmishra-agenticai-claudecode-share-7481469310964592640-miqH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+`https://www.linkedin.com/posts/joshua-chibuisi-5b9222200_dmibypravinmishra-agenticai-claudecode-activity-7481469312118120448-mthk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
