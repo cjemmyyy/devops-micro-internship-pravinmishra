@@ -28,7 +28,10 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+PO (Product Owner): Decided what has the most value and should be prioritized in the backlog
+SM (Scrum Master): Ensured the process is followed correctly — timeboxing, sprint ceremonies (planning, retro), and keeping the team (or yourself) accountable to Scrum practices.
+Dev Lead: Edited the Hero Section.
+DevOps Lead: Deployed to EC2 and verified it was live and responsive.
 
 ---
 
@@ -98,7 +101,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+The stories were ranked 1 and 2; 1 for something easily achievable and doable, and 2 for something slightly more difficult.
 
 ---
 
@@ -188,13 +191,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/joshua-chibuisi_devops-agile-scrum-ugcPost-7491476812728954880-NCoe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![](screenshots/linkedin.png)
 
 ---
 
@@ -217,7 +220,7 @@ Add your screenshot here.
 - [x] Task 7: Burndown Chart opened (Screenshot 9)
 - [x] Task 8: One UI-only increment implemented, committed, deployed, and verified (Screenshots 10–12)
 - [x] Task 9: Retro comment with one Scrum pillar and one Scrum value (Screenshot 13)
-- [ ] Task 10: Mandatory LinkedIn post published with the live URL, backlog refinement, Sprint planning, one shipped increment, proof, and Screenshot 14
+- [x] Task 10: Mandatory LinkedIn post published with the live URL, backlog refinement, Sprint planning, one shipped increment, proof, and Screenshot 14
 - [x] Full Name visible in required screenshots
 - [x] No sensitive data exposed
 
