@@ -253,13 +253,13 @@ Publish a LinkedIn post about the high-availability build, including the ALB URL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/joshua-chibuisi_aws-devops-devopsmicrointernship-share-7495275271344865280-_KIx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![](screenshots/LINKEDIN1.png)
 
 ---
 
@@ -281,7 +281,7 @@ Add your screenshot here.
 - [x] Task 7: Application verified through the ALB with a database read and write (Screenshots 17–18)
 - [x] Task 8: Both high-availability tests completed (Screenshots 19–22)
 - [x] Task 9: Architecture and test-results summary completed (Screenshot 23 & Notes)
-- [ ] LinkedIn post published and URL submitted
+- [x] LinkedIn post published and URL submitted
 - [x] No sensitive data exposed
 
 ---

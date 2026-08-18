@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![](screenshots/architecture2.png)
 
 ---
 
@@ -34,13 +34,25 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+EU-NORTH-1 (Stockholm)
 
 ---
 
 **Services:**
 
-Write your answer here.
+Custom VPC: Book-Review-VPC
+6 subnets (private, public and database)
+Internet Gateway
+Elastic IP
+NAT Gateway
+3 route tables
+3 security groups
+Public ALB
+Internal ALB
+Target groups
+Two EC2 instances (WEB and APP)
+RDS MySQL (primary and read replica)
+RDS subnet group
 
 ---
 
@@ -56,7 +68,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+`Book-Review-Web-ALB-831147239.eu-north-1.elb.amazonaws.com`
 
 ---
 
@@ -70,37 +82,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![](screenshots/ASS6-SC1.png)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![](screenshots/ASS6-SC2.png)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![](screenshots/ASS6-SC3.png)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![](screenshots/ASS6-SC4.png)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![](screenshots/ASS6-SC5.png)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![](screenshots/ASS6-SC6.png)
 
 ---
 
@@ -114,19 +126,32 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+The App UI worked along with everything else.
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+1. SSH connection timeout to private EC2 via bastion — port 22 timing out when hopping from the bastion to the private instance.
+Root cause: private instance's security group allowed SSH from your IP instead of the bastion's security group.
+
+2. MySQL connection timeout (Error 2003 / errno 110) — couldn't connect to the RDS endpoint on port 3306.
+Same root cause pattern: RDS security group wasn't allowing inbound from the private EC2's security group.
+
+3. Target group unhealthy / request timeout — ALB health checks failing.
+Root cause: security group inbound rule was open on port 3301 instead of 3001, so the ALB couldn't reach the app at all.
+
+4. "No books available" on the site — worked down the stack step by step:
+Confirmed API (curl /api/books) was returning data fine on the server.
+Confirmed the Books table had 3 rows.
+Found the real issue in the browser: request was hitting /api/api/books — a duplicated /api prefix, caused by NEXT_PUBLIC_API_URL already being /api while page.js appended another /api/books on top of it.
+Fixed in src/app/page.js.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+Google, Claude, AWS documentation, Medium articles.
 
 ---
 
@@ -142,13 +167,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/joshua-chibuisi_aws-devops-devopsmicrointernship-share-7495275271344865280-_KIx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c`
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![](screenshots/LINKEDIN1.png)
 
 ---
 
@@ -161,14 +186,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Architecture diagram completed
-- [ ] Task 2: AWS Region and services documented
-- [ ] Task 3: Public ALB DNS confirmed working
-- [ ] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
-- [ ] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
-- [ ] LinkedIn post published and URL submitted
-- [ ] App Tier and Database Tier confirmed not publicly accessible
-- [ ] No sensitive data exposed
+- [x] Task 1: Architecture diagram completed
+- [x] Task 2: AWS Region and services documented
+- [x] Task 3: Public ALB DNS confirmed working
+- [x] Task 4: All six evidence screenshots captured (Web Tier, App Tier, both ALBs, RDS + replica, app UI)
+- [x] Task 5: Deployment summary completed (what worked, issues/fixes, tools/sources)
+- [x] LinkedIn post published and URL submitted
+- [x] App Tier and Database Tier confirmed not publicly accessible
+- [x] No sensitive data exposed
 
 ---
 
