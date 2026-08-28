@@ -136,7 +136,7 @@ Pick one WARN or FAIL finding (or deliberately open an NSG rule to port 22 from 
 
 Compare this assignment to the AWS audit you built in Week 6: which finding categories map to each other across the two clouds, and what stayed exactly the same about the workflow even though the `az`/`aws` commands are completely different?
 
-Add your answer here
+Mostly everything stayed the same, just that for the AWS audit assignment, I had one fail and one warn, which I had to fix so I can get a healthy baseline, but for this azure audit I had a very healthy baseline, and I had to tweak a few things so that Claude could pick it up and then I could run the fix.
 
 ---
 
@@ -152,15 +152,15 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] Task 1: Azure resources confirmed and workspace created (Screenshot 1)
-- [ ] Task 2: `CLAUDE.md` created with project context and safety rules (Screenshot 2)
-- [ ] Task 3: Claude produced a read-only four-check plan before any script existed (Screenshot 3)
-- [ ] Task 4: Audit script built, syntax-checked, and executable (Screenshots 4–5)
-- [ ] Task 5: Baseline audit run and reviewed honestly (Screenshot 6)
-- [ ] Task 6: `/azure-audit` skill created with no `Write` permission and run successfully (Screenshots 7–8)
-- [ ] Task 7: A real finding fixed by you (not Claude) and re-verified as resolved (Screenshots 9–11)
-- [ ] Notes comparing this to the Week 6 AWS audit completed
-- [ ] No subscription IDs, tenant IDs, or credentials exposed
+- [x] Task 1: Azure resources confirmed and workspace created (Screenshot 1)
+- [x] Task 2: `CLAUDE.md` created with project context and safety rules (Screenshot 2)
+- [x] Task 3: Claude produced a read-only four-check plan before any script existed (Screenshot 3)
+- [x] Task 4: Audit script built, syntax-checked, and executable (Screenshots 4–5)
+- [x] Task 5: Baseline audit run and reviewed honestly (Screenshot 6)
+- [x] Task 6: `/azure-audit` skill created with no `Write` permission and run successfully (Screenshots 7–8)
+- [x] Task 7: A real finding fixed by you (not Claude) and re-verified as resolved (Screenshots 9–11)
+- [x] Notes comparing this to the Week 6 AWS audit completed
+- [x] No subscription IDs, tenant IDs, or credentials exposed
 
 ---
 
