@@ -138,7 +138,7 @@ Week 07 → Azure Cloud
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/joshua-chibuisi_devops-agile-scrum-ugcPost-7491476812728954880-NCoe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c | — |
 | 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/joshua-chibuisi_dmibypravinmishra-aws-agenticai-share-7495286134202208256-NI4Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c | — |
 | 07 | Azure Cloud | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/joshua-chibuisi_week-7-of-my-devops-micro-internship-was-share-7499170058661748736-4Dhm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNKSt0BkwUJXkGvXGi9tUas8IjHyH5UK9c | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 08 | Terraform | ⬜ 🔄 In Progress | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
